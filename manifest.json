@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "updatedAt": "2026-02-20",
+
+  "hub": {
+    "order": ["puzzle", "shapes", "animals"],
+    "enabledGames": ["puzzle", "shapes", "animals"]
+  },
+
+  "games": {
+    "puzzle": {
+      "settings": {
+        "pieceLevels": [2, 4, 6, 8],
+        "defaultPieces": 2,
+        "snapTolerance": 0.18
+      },
+      "categories": [
+        {
+          "id": "animals",
+          "items": [
+            {
+              "id": "dog",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/dog.png"
+            },
+            {
+              "id": "cat",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/cat.png"
+            }
+          ]
+        },
+        {
+          "id": "vehicles",
+          "items": [
+            {
+              "id": "truck",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/truck.png"
+            },
+            {
+              "id": "excavator",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/excavator.png"
+            }
+          ]
+        }
+      ]
+    },
+
+    "shapes": {
+      "settings": {
+        "colorsEnabled": true,
+        "maxShapes": 6
+      }
+    },
+
+    "animals": {
+      "settings": {
+        "soundEnabled": true
+      }
+    }
+  }
+}
