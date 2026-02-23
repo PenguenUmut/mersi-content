@@ -1,10 +1,10 @@
 {
-  "version": 1,
-  "updatedAt": "2026-02-23",
+  "version": 2,
+  "updatedAt": "2026-02-24",
 
   "hub": {
     "order": ["puzzle", "shapes", "animals"],
-    "enabledGames": ["puzzle", "shapes", "animals"]
+    "enabledGames": ["puzzle", "shapes"]
   },
 
   "games": {
@@ -19,14 +19,39 @@
           "id": "animals",
           "items": [
             {
-              "id": "dog",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/dog.jpg",
-              "hash": "abc"
+              "id": "aslan",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/aslan.jpg",
+              "hash": "a"
+            },
+            {
+              "id": "balik",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/balik.avif",
+              "hash": "a"
+            },
+            {
+              "id": "bisiklet",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/bisiklet.avif",
+              "hash": "a"
             },
             {
               "id": "cat",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/cat.jpeg",
-              "hash": "abc"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/cat.jpg",
+              "hash": "a"
+            },
+            {
+              "id": "dog",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/dog.avif",
+              "hash": "a"
+            },
+            {
+              "id": "fil",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/fil.jpeg",
+              "hash": "a"
+            },
+            {
+              "id": "zurafa",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/zurafa.avif",
+              "hash": "a"
             }
           ]
         },
@@ -34,14 +59,39 @@
           "id": "vehicles",
           "items": [
             {
-              "id": "truck",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/truck.jpg",
-              "hash": "abc"
+              "id": "ekskavator",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/ekskavator.jpg",
+              "hash": "a"
             },
             {
-              "id": "excavator",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/excavator.jpg",
-              "hash": "abc"
+              "id": "kamyon",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/kamyon.avif",
+              "hash": "a"
+            },
+            {
+              "id": "kepce",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/kepce.png",
+              "hash": "a"
+            },
+            {
+              "id": "mikser",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/mikser.avif",
+              "hash": "a"
+            },
+            {
+              "id": "motor",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/motor.jpg",
+              "hash": "a"
+            },
+            {
+              "id": "silindir",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/silindir.webp",
+              "hash": "a"
+            },
+            {
+              "id": "vinc",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/vinc.avif",
+              "hash": "a"
             }
           ]
         }
