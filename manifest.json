@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-20",
+  "updatedAt": "2026-02-23",
 
   "hub": {
     "order": ["puzzle", "shapes", "animals"],
@@ -20,11 +20,13 @@
           "items": [
             {
               "id": "dog",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/dog.png"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/dog.jpg",
+              "hash": "abc"
             },
             {
               "id": "cat",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/cat.png"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/cat.jpeg",
+              "hash": "abc"
             }
           ]
         },
@@ -33,11 +35,13 @@
           "items": [
             {
               "id": "truck",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/truck.png"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/truck.jpg",
+              "hash": "abc"
             },
             {
               "id": "excavator",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/excavator.png"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/excavator.jpg",
+              "hash": "abc"
             }
           ]
         }
