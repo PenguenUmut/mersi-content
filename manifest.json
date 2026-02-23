@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "updatedAt": "2026-02-24",
 
   "hub": {
@@ -90,8 +90,8 @@
             },
             {
               "id": "bisiklet",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/bisiklet.avif",
-              "hash": "a"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/bisiklet.avif",
+              "hash": "b"
             }
           ]
         }
