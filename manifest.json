@@ -29,11 +29,6 @@
               "hash": "a"
             },
             {
-              "id": "bisiklet",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/bisiklet.avif",
-              "hash": "a"
-            },
-            {
               "id": "cat",
               "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/cat.jpg",
               "hash": "a"
@@ -91,6 +86,11 @@
             {
               "id": "vinc",
               "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/vinc.avif",
+              "hash": "a"
+            },
+            {
+              "id": "bisiklet",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/bisiklet.avif",
               "hash": "a"
             }
           ]
