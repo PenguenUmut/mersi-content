@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "updatedAt": "2026-02-24",
 
   "hub": {
@@ -16,82 +16,112 @@
       },
       "categories": [
         {
-          "id": "animals",
+          "id": "hayvanlar",
           "items": [
             {
               "id": "aslan",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/aslan.jpg",
-              "hash": "a"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/hayvanlar/aslan.jpg",
+              "hash": "c"
             },
             {
               "id": "balik",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/balik.avif",
-              "hash": "a"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/hayvanlar/balik.avif",
+              "hash": "c"
             },
             {
               "id": "cat",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/cat.jpg",
-              "hash": "a"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/hayvanlar/cat.jpg",
+              "hash": "c"
             },
             {
               "id": "dog",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/dog.avif",
-              "hash": "a"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/hayvanlar/dog.avif",
+              "hash": "c"
             },
             {
               "id": "fil",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/fil.jpeg",
-              "hash": "a"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/hayvanlar/fil.jpeg",
+              "hash": "c"
             },
             {
               "id": "zurafa",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/animals/zurafa.avif",
-              "hash": "a"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/hayvanlar/zurafa.avif",
+              "hash": "c"
             }
           ]
         },
         {
-          "id": "vehicles",
+          "id": "araclar",
           "items": [
             {
+              "id": "bisiklet",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/araclar/bisiklet.avif",
+              "hash": "c"
+            },
+            {
               "id": "ekskavator",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/ekskavator.jpg",
-              "hash": "a"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/araclar/ekskavator.jpg",
+              "hash": "c"
             },
             {
               "id": "kamyon",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/kamyon.avif",
-              "hash": "a"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/araclar/kamyon.avif",
+              "hash": "c"
             },
             {
               "id": "kepce",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/kepce.png",
-              "hash": "a"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/araclar/kepce.png",
+              "hash": "c"
             },
             {
               "id": "mikser",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/mikser.avif",
-              "hash": "a"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/araclar/mikser.avif",
+              "hash": "c"
             },
             {
               "id": "motor",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/motor.jpg",
-              "hash": "a"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/araclar/motor.jpg",
+              "hash": "c"
             },
             {
               "id": "silindir",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/silindir.webp",
-              "hash": "a"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/araclar/silindir.webp",
+              "hash": "c"
             },
             {
               "id": "vinc",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/vinc.avif",
-              "hash": "a"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/araclar/vinc.avif",
+              "hash": "c"
+            }
+          ]
+        },
+        {
+          "id": "meyveler",
+          "items": [
+            {
+              "id": "elma",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/meyveler/elma.png",
+              "hash": "c"
             },
             {
-              "id": "bisiklet",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/vehicles/bisiklet.avif",
-              "hash": "b"
+              "id": "karpuz",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/meyveler/karpuz.jpg",
+              "hash": "c"
+            },
+            {
+              "id": "limon",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/meyveler/limon.webp",
+              "hash": "c"
+            },
+            {
+              "id": "muz",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/meyveler/muz.png",
+              "hash": "c"
+            },
+            {
+              "id": "uzum",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/meyveler/uzum.jpg",
+              "hash": "c"
             }
           ]
         }
