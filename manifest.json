@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "updatedAt": "2026-02-24",
 
   "hub": {
@@ -120,8 +120,8 @@
             },
             {
               "id": "uzum",
-              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/meyveler/uzum.jpg",
-              "hash": "c"
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/meyveler/uzum.png",
+              "hash": "d"
             }
           ]
         }
