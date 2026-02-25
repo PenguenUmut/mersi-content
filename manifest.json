@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "updatedAt": "2026-02-24",
 
   "hub": {
@@ -127,6 +127,16 @@
               "id": "uzum",
               "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/meyveler/uzum.png",
               "hash": "d"
+            }
+          ]
+        },
+        {
+          "id": "okul",
+          "items": [
+            {
+              "id": "cetvel",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/okul/cetvel.png",
+              "hash": "c"
             }
           ]
         }
