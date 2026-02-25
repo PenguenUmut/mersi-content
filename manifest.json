@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "updatedAt": "2026-02-24",
 
   "hub": {
@@ -91,6 +91,11 @@
             {
               "id": "vinc",
               "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/araclar/vinc.avif",
+              "hash": "c"
+            },
+            {
+              "id": "tren",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/araclar/tren.png",
               "hash": "c"
             }
           ]
