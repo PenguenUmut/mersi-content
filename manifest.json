@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "updatedAt": "2026-02-24",
 
   "hub": {
@@ -18,6 +18,11 @@
         {
           "id": "hayvanlar",
           "items": [
+            {
+              "id": "ayi",
+              "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/hayvanlar/ayi.jpeg",
+              "hash": "a"
+            },
             {
               "id": "aslan",
               "imageUrl": "https://raw.githubusercontent.com/penguenumut/mersi-content/main/puzzle/hayvanlar/aslan.jpg",
