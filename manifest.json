@@ -1,10 +1,10 @@
 {
-  "version": 8,
+  "version": 9,
   "updatedAt": "2026-02-24",
 
   "hub": {
     "order": ["puzzle", "shapes", "animals"],
-    "enabledGames": ["puzzle", "shapes"]
+    "enabledGames": ["puzzle"]
   },
 
   "games": {
